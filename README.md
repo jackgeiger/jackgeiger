@@ -1,8 +1,3 @@
 Hi, I’m @jackgeiger<br>
-I’m interested in computer science and understanding how things work<br>
-I’m currently learning quantum physics<br>
-
-<!---
-jackgeiger/jackgeiger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a mechanical engineer with a passion for computer programming<br>
+I use this repository to store the personal projects I've worked on over the years<br>
